@@ -1,1 +1,1 @@
-# Project2
+# Java Swing Calculator
